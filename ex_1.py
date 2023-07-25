@@ -25,4 +25,5 @@ Ce vor afişa următoarele expresii? (Încercaţi mai întâi fără a implement
 
 """
 
-
+i = 1
+ii = 2
